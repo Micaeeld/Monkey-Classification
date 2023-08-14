@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Monkey Image Classification
 This notebook presents the code for classifying images of monkeys using the Tensorflow library. Through the use of convolutional neural networks (CNN), it was possible to reach a precision (accuracy) of 100% in the image classification.
 
